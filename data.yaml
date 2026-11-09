@@ -1,7 +1,8 @@
+path: dataset
+train: images/train
+val: images/eval
 names:
   0: car
-  1: trunk
+  1: truck
   2: bus
   3: van
-path: .
-train: train.txt
